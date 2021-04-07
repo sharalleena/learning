@@ -1,0 +1,12 @@
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <script>
+            alert("your name please");
+            prompt("your name please");
+            document.write("<h1> hello sharal </h1>");
+        </script>
+    </body>
+</html>
