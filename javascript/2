@@ -1,0 +1,16 @@
+<html>
+    <head>
+        
+    </head>
+    <body>
+        <script>
+            var name=prompt("enter  yor name");
+document.write(name);
+          var date =Date();
+          document.write(date);
+          var location=window.location();
+          document.write(location);
+           document.write(document.baseURI+"<br>"); //this line did not execute i had executed in codepad..... may be that is the reason
+        </script>
+    </body>
+</html>
