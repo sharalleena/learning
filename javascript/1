@@ -4,9 +4,10 @@
     </head>
     <body>
         <script>
-            alert("your name please");
-            prompt("your name please");
-            document.write("<h1> hello sharal </h1>");
+            alert("your name please"); //gives pop up  with the message in double quotes
+            prompt("your name please"); ////gives pop up  with the message in double quotes along with a textbox to enter the  char or anything 
+            document.write("<h1> hello sharal </h1>"); //prints
+            console.log("kia soul")   //helps to debug
         </script>
     </body>
 </html>
